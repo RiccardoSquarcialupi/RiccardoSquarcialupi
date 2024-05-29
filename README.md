@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
 ### Connect with me:
 
-<!--[![](./img/linkedin-light.svg)](https://www.linkedin.com/in/riccardo-squarcialupi-580849236/#gh-light-mode-only)
+[![](./img/linkedin-light.svg)](https://www.linkedin.com/in/riccardo-squarcialupi-580849236/#gh-light-mode-only)
 [![](./img/linkedin-dark.svg)](https://www.linkedin.com/in/riccardo-squarcialupi-580849236/#gh-dark-mode-only)
 -->
 
