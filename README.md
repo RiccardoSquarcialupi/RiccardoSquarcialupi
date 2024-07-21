@@ -1,6 +1,6 @@
 # Hello there, I'm Riccardo👋
 
-## I'm a Computer Engineer Master Student
+## I'm a Computer Engineer from Italy!
 <!--
 **RiccardoSquarcialupi/RiccardoSquarcialupi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
